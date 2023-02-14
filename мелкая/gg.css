@@ -1,0 +1,41 @@
+body{
+	background-color: #9966cc;
+}
+h1{
+	text-align: center;
+}
+img.bir{
+	height: 400px;
+	width: 300px;
+	margin-left: 130px;
+}
+img.eki{
+   height: 400px;
+	width: 250px;
+	margin-left: 150px;
+}
+img.three{
+   height: 400px;
+	width: 250px;
+	margin-left: 150px;
+}
+video{
+	height: 500px;
+	width: 500px;
+	margin-left: 400px;
+}
+p{
+	color: black;
+	font-size: 200%;
+}
+h2{
+	text-align: center;
+}
+img.gif{
+	  height: 300px;
+	  width: 300px;
+}
+h3{
+	margin-left: 500px;
+	margin-top: -170px;
+}
